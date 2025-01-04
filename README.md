@@ -25,31 +25,8 @@
 - Add To cart
 - Go to Checkout Page
 
-### Technologies used:-
-1. Front-End Development:
-- Html
-- Css
-- Javascript
-- Bootstrap 4
-
-2. Back-End Development
-- Java
-- JDBC
-- Servlet
-- Hibernate
-- Maven Support
-
-3. Database used
-- Sql/MySql
 
 
-Note:- This is a basic Project so we have not think about the security and we have only implemented this project using the generic servlet
-
-#### "Suggestions and project Improvements are Invited!"
-
-<bold>Thanks a lot</bold><br/>
-                                                                                                        Project Creator<br/>
-                                                                                                         <b>Harshit Shakya</b>
                                                                                                          
 
 <h1>This is Admin Page</h1>
